@@ -1,0 +1,5 @@
+Download the following files from http://ana.cachopo.org/datasets-for-single-label-text-categorization
+a) 20ng-test-all-terms.txt
+b) 20ng-train-all-terms.txt
+
+Also the download the initial word embedding http://nlp.stanford.edu/data/glove.6B.zip
